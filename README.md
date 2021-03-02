@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/elad-rahamim-732598208/" title="Linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eladrahamim&show_icons=true&theme=radical&line_height=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eladrahamim&layout=compact&theme=radical&ine_height=20
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eladrahamim&layout=compact&theme=radical&line_height=20
 )](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
