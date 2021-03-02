@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 
-![](https://komarev.com/ghpvc/?username=eladrahamim&color=gray)
+![](https://komarev.com/ghpvc/?username=eladrahamim&color=blue)
